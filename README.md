@@ -1,2 +1,4 @@
-# web-app
-Modern app deployment
+# maven-project
+
+Simple Maven Project conflict
+
